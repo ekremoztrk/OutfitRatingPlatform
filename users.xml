@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Users xmlns="CENG431">
+    <User id="1">
+        <UserName>tugkantuglular</UserName>
+        <Password>1234</Password>
+        <Followers>
+            <User id="2">
+                <UserName>dilekozturk</UserName>
+                <Password>1234</Password>
+            </User>
+            <User id="3">
+                <UserName>serhatcaner</UserName>
+                <Password>1234</Password>
+            </User>
+            <User id="4">
+                <UserName>armanokluoglu</UserName>
+                <Password>1234</Password>
+            </User>
+            <User id="5">
+                <UserName>ekremozturk</UserName>
+                <Password>1234</Password>
+            </User>
+        </Followers>
+        <Followings>
+            <User id="3">
+                <UserName>serhatcaner</UserName>
+                <Password>1234</Password>
+            </User>
+            <User id="5">
+                <UserName>ekremozturk</UserName>
+                <Password>1234</Password>
+            </User>
+            <User id="6">
+                <UserName>elonmusk</UserName>
+                <Password>1234</Password>
+            </User>
+        </Followings>
+        <Collections>
+            <Collection id="1">
+                <Name>collection1</Name>
+                <OutfitIds>1 2 7 6 12</OutfitIds>
+            </Collection>
+            <Collection id="10">
+                <Name>xx</Name>
+                <OutfitIds>1</OutfitIds>
+            </Collection>
+        </Collections>
+    </User>
+    <User id="2">
+        <UserName>dilekozturk</UserName>
+        <Password>1234</Password>
+        <Followers>
+            <User id="4">
+                <UserName>armanokluoglu</UserName>
+                <Password>1234</Password>
+            </User>
+            <User id="5">
+                <UserName>ekremozturk</UserName>
+                <Password>1234</Password>
+            </User>
+        </Followers>
+        <Followings>
+            <User id="1">
+                <UserName>tugkantuglular</UserName>
+                <Password>1234</Password>
+            </User>
+        </Followings>
+        <Collections>
+            <Collection id="2">
+                <Name>collection2</Name>
+                <OutfitIds>3 1</OutfitIds>
+            </Collection>
+        </Collections>
+    </User>
+    <User id="3">
+        <UserName>serhatcaner</UserName>
+        <Password>1234</Password>
+        <Followers>
+            <User id="1">
+                <UserName>tugkantuglular</UserName>
+                <Password>1234</Password>
+            </User>
+            <User id="6">
+                <UserName>elonmusk</UserName>
+                <Password>1234</Password>
+            </User>
+        </Followers>
+        <Followings>
+            <User id="1">
+                <UserName>tugkantuglular</UserName>
+                <Password>1234</Password>
+            </User>
+        </Followings>
+        <Collections>
+            <Collection id="3">
+                <Name>collection3</Name>
+                <OutfitIds>4 3</OutfitIds>
+            </Collection>
+        </Collections>
+    </User>
+    <User id="4">
+        <UserName>armanokluoglu</UserName>
+        <Password>1234</Password>
+        <Followers/>
+        <Followings>
+            <User id="1">
+                <UserName>tugkantuglular</UserName>
+                <Password>1234</Password>
+            </User>
+            <User id="2">
+                <UserName>dilekozturk</UserName>
+                <Password>1234</Password>
+            </User>
+        </Followings>
+        <Collections>
+            <Collection id="4">
+                <Name>collection4</Name>
+                <OutfitIds>1 2 3</OutfitIds>
+            </Collection>
+        </Collections>
+    </User>
+    <User id="5">
+        <UserName>ekremozturk</UserName>
+        <Password>1234</Password>
+        <Followers>
+            <User id="1">
+                <UserName>tugkantuglular</UserName>
+                <Password>1234</Password>
+            </User>
+        </Followers>
+        <Followings>
+            <User id="1">
+                <UserName>tugkantuglular</UserName>
+                <Password>1234</Password>
+            </User>
+            <User id="2">
+                <UserName>dilekozturk</UserName>
+                <Password>1234</Password>
+            </User>
+        </Followings>
+        <Collections>
+            <Collection id="5">
+                <Name>collection5</Name>
+                <OutfitIds>2 7</OutfitIds>
+            </Collection>
+            <Collection id="10">
+                <Name>new collection</Name>
+                <OutfitIds/>
+            </Collection>
+            <Collection id="11">
+                <Name>new collection2</Name>
+                <OutfitIds>1</OutfitIds>
+            </Collection>
+        </Collections>
+    </User>
+    <User id="6">
+        <UserName>elonmusk</UserName>
+        <Password>1234</Password>
+        <Followers>
+            <User id="1">
+                <UserName>tugkantuglular</UserName>
+                <Password>1234</Password>
+            </User>
+        </Followers>
+        <Followings>
+            <User id="3">
+                <UserName>serhatcaner</UserName>
+                <Password>1234</Password>
+            </User>
+        </Followings>
+        <Collections>
+            <Collection id="6">
+                <Name>collection6</Name>
+                <OutfitIds>6 2 1 3</OutfitIds>
+            </Collection>
+        </Collections>
+    </User>
+</Users>
